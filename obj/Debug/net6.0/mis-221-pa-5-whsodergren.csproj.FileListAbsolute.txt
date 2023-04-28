@@ -1,0 +1,15 @@
+C:\Users\hamso\OneDrive\Desktop\Code for MIS 221\PA 5\mis-221-pa-5-whsodergren\bin\Debug\net6.0\mis-221-pa-5-whsodergren.exe
+C:\Users\hamso\OneDrive\Desktop\Code for MIS 221\PA 5\mis-221-pa-5-whsodergren\bin\Debug\net6.0\mis-221-pa-5-whsodergren.deps.json
+C:\Users\hamso\OneDrive\Desktop\Code for MIS 221\PA 5\mis-221-pa-5-whsodergren\bin\Debug\net6.0\mis-221-pa-5-whsodergren.runtimeconfig.json
+C:\Users\hamso\OneDrive\Desktop\Code for MIS 221\PA 5\mis-221-pa-5-whsodergren\bin\Debug\net6.0\mis-221-pa-5-whsodergren.dll
+C:\Users\hamso\OneDrive\Desktop\Code for MIS 221\PA 5\mis-221-pa-5-whsodergren\bin\Debug\net6.0\mis-221-pa-5-whsodergren.pdb
+C:\Users\hamso\OneDrive\Desktop\Code for MIS 221\PA 5\mis-221-pa-5-whsodergren\obj\Debug\net6.0\mis-221-pa-5-whsodergren.csproj.AssemblyReference.cache
+C:\Users\hamso\OneDrive\Desktop\Code for MIS 221\PA 5\mis-221-pa-5-whsodergren\obj\Debug\net6.0\mis-221-pa-5-whsodergren.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hamso\OneDrive\Desktop\Code for MIS 221\PA 5\mis-221-pa-5-whsodergren\obj\Debug\net6.0\mis-221-pa-5-whsodergren.AssemblyInfoInputs.cache
+C:\Users\hamso\OneDrive\Desktop\Code for MIS 221\PA 5\mis-221-pa-5-whsodergren\obj\Debug\net6.0\mis-221-pa-5-whsodergren.AssemblyInfo.cs
+C:\Users\hamso\OneDrive\Desktop\Code for MIS 221\PA 5\mis-221-pa-5-whsodergren\obj\Debug\net6.0\mis-221-pa-5-whsodergren.csproj.CoreCompileInputs.cache
+C:\Users\hamso\OneDrive\Desktop\Code for MIS 221\PA 5\mis-221-pa-5-whsodergren\obj\Debug\net6.0\mis-221-pa-5-whsodergren.dll
+C:\Users\hamso\OneDrive\Desktop\Code for MIS 221\PA 5\mis-221-pa-5-whsodergren\obj\Debug\net6.0\refint\mis-221-pa-5-whsodergren.dll
+C:\Users\hamso\OneDrive\Desktop\Code for MIS 221\PA 5\mis-221-pa-5-whsodergren\obj\Debug\net6.0\mis-221-pa-5-whsodergren.pdb
+C:\Users\hamso\OneDrive\Desktop\Code for MIS 221\PA 5\mis-221-pa-5-whsodergren\obj\Debug\net6.0\mis-221-pa-5-whsodergren.genruntimeconfig.cache
+C:\Users\hamso\OneDrive\Desktop\Code for MIS 221\PA 5\mis-221-pa-5-whsodergren\obj\Debug\net6.0\ref\mis-221-pa-5-whsodergren.dll
