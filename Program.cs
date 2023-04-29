@@ -1,16 +1,16 @@
 ﻿//main
 using mis_221_pa_5_whsodergren;
 
-Listings[] listings = new Listings[100];
-ListingUtility listingUtility = new ListingUtility(listings);
-
 Trainers[] trainers = new Trainers[100];
 TrainerUtility trainerUtility = new TrainerUtility(trainers);
+
+Listings[] listings = new Listings[100];
+ListingUtility listingUtility = new ListingUtility(listings, trainers);
 
 Transactions[] transactions =  new Transactions[100];
 TransactionUtility transactionUtility = new TransactionUtility(transactions);
 
-Reports report = new Reports(transactions);
+Reports report = new Reports(transactions, trainers, listings);
 transactionUtility.GetAllTransactionsFromFile();
 
 

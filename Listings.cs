@@ -4,7 +4,7 @@ namespace mis_221_pa_5_whsodergren
     {
         public int listingId;
         private string trainerName;
-        private DateTime sessionDate;
+        private string sessionDate;
         private string sessionTime;
         private decimal sessionCost;
         private string sessionStatus;
@@ -14,7 +14,7 @@ namespace mis_221_pa_5_whsodergren
 
         }
 
-        public Listings(int listingId, string trainerName, DateTime sessionDate, string sessionTime, decimal sessionCost, string sessionStatus) {
+        public Listings(int listingId, string trainerName, string sessionDate, string sessionTime, decimal sessionCost, string sessionStatus) {
            this.listingId = listingId;
            this.trainerName = trainerName;
            this.sessionDate = sessionDate;
@@ -43,11 +43,11 @@ namespace mis_221_pa_5_whsodergren
         }
 
         
-        public void SetSessionDate(DateTime sessionDate) {
+        public void SetSessionDate(string sessionDate) {
             this.sessionDate = sessionDate;
         }
 
-        public DateTime GetSessionDate() {
+        public string GetSessionDate() {
             return sessionDate;
         }
 

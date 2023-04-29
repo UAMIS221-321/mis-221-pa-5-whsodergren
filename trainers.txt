@@ -1,7 +1,3 @@
-1#John Doe#209 Majestic Dr#JDoe@gmail.com
-2#Dan Mancil#812 Eastridge Ave#DMancil@gmail.com
-3#Bob Huffin#127 Raulston Ave#BobH@gmail.com
-4#Mark Jones#311 South St#MJones@gmail.com
-5#Crawford Trinity#23 Cherry Bark Trl#CTrinity@gmail.com
-6#Grant Mina#8778 Kilkinney Rd#GMina@gmail.com
+1#Toby Pearce#9848 Liggett St#TPearce@gmail.com
+2#Rudy Lise#715 E Race St#RLise@gmail.com
 
